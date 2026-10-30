@@ -1,0 +1,10 @@
+{
+  "name": "mobbin-research",
+  "version": "0.1.0",
+  "description": "Evidence-led UI/UX research through Mobbin: interview, search, 4-5 references, 3 playable demos, then pick a direction",
+  "author": {
+    "name": "Jerico Lawrence"
+  },
+  "repository": "https://github.com/jericolawrence/mobbin-research",
+  "license": "MIT"
+}

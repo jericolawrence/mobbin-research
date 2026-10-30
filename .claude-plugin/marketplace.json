@@ -1,0 +1,14 @@
+{
+  "name": "mobbin-research",
+  "description": "Evidence-led UI/UX research through Mobbin for coding agents",
+  "owner": {
+    "name": "Jerico Lawrence"
+  },
+  "plugins": [
+    {
+      "name": "mobbin-research",
+      "source": "./",
+      "description": "Evidence-led UI/UX research through Mobbin: interview, search, 4-5 references, 3 playable demos, then pick a direction"
+    }
+  ]
+}
